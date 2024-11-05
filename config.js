@@ -15,7 +15,7 @@ global.set = {
   author: 'StarVX-bot'
 }
 /** enter your bot number to login using the code */
-global.pairingNumber = 6283867587556
+global.pairingNumber = 6285283781322
 /** enter your replit link, so it's active 24/7 */
 global.replit_url = ''
 /** the bigger it gets the harder it is to level up */
